@@ -8,7 +8,7 @@ Space: To Shot <br>
 
 
 ### Player 2 
-Aroow Up+Down: To Move <br>
+Arrow Up+Down: To Move <br>
 Enter: To Shot <br>
 
 ### Instructions 
